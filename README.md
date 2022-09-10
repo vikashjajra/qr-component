@@ -16,7 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 The goal was to create a card which shows a qr code with some text.
 
 ### Screenshot
-![image](https://user-images.githubusercontent.com/96776232/189473545-26b5d0a2-499e-42c5-883f-5f00fd0ce7c9.png)
+![image](https://user-images.githubusercontent.com/96776232/189474754-b0357e3b-137e-454e-bbd0-e9665a57be43.png)
 
 ### Links
 
